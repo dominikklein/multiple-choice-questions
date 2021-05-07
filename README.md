@@ -1,6 +1,7 @@
 
 # multiple-choice-questions
 
+[![Build Status](https://img.shields.io/github/workflow/status/dominikklein/multiple-choice-questions/Test%20&%20Build)](https://github.com/dominikklein/multiple-choice-questions/actions/workflows/checks.yml)
 [![Nest.js](https://img.shields.io/github/package-json/dependency-version/dominikklein/multiple-choice-questions/@nestjs/core)](https://nestjs.com/)
 [![TypeORM](https://img.shields.io/github/package-json/dependency-version/dominikklein/multiple-choice-questions/typeorm)](https://typeorm.io/)
 [![GraphQL](https://img.shields.io/github/package-json/dependency-version/dominikklein/multiple-choice-questions/graphql)](https://graphql.org/)
